@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://raw.githubusercontent.com/uNetworking/uWebSockets/master/misc/lasercat.png" height="120" />
+</div>
+<br>
+
 # CS50: The Indie Hacker's Edition
 
 Este repositório contém o material do curso **CS50: The Indie Hacker's Edition**, um guia prático para quem quer aprender desenvolvimento web full stack de forma independente. Inspirado no famoso curso CS50, o conteúdo é adaptado para quem deseja aprender a programar e, no futuro, seguir o caminho de um Indie Hacker ou uma carreira tradicional em desenvolvimento de software.
