@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/uNetworking/uWebSockets/master/misc/lasercat.png" height="120" />
+<img src="https://raw.githubusercontent.com/6laercio/cs50-indie-hacker-edition/master/misc/lasercat.png" height="120" />
 </div>
 <br>
 
