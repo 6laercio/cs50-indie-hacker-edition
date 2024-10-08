@@ -33,7 +33,7 @@ Contribuições são bem-vindas! Siga as instruções abaixo:
 4. Envie para o seu fork (`git push origin sua-feature`).
 5. Abra um Pull Request para a branch `development` para revisão.
 
-## todo
+## Todo
 - [ ] Criar Conteúdo do Curso
 - [ ] Gravar Aulas
 - [ ] Editar Vídeos
